@@ -16,7 +16,7 @@ spec:
         app: service-a-deployment
     spec:
       containers:
-      - image: kanha05/service-metrics-a:v1
+      - image: nahid0002/service-metrics-a:v1
         name: service-a
         imagePullPolicy: Always
         ports:
